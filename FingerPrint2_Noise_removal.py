@@ -1,7 +1,3 @@
-#===========================================================================
-# Author - Dr. Manish Kashyap
-#===========================================================================
-
 # PURPOSE : Noise Removal from noisy images (Grayscale Fingerprint Images)
 
 
