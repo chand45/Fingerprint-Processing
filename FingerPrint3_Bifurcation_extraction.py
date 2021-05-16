@@ -1,7 +1,3 @@
-#======================================================================
-# Author - Dr. Manish Kashyap
-#======================================================================
-
 # PURPOSE : Bifurcation extraction in binary fingerprint images
 #             (Requires "pip install scikit-image")
 
