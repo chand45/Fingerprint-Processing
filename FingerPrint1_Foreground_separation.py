@@ -1,7 +1,3 @@
-#======================================================================
-# Author - Dr. Manish Kashyap
-#======================================================================
-
 # PURPOSE : Foregroung Background separation (Grayscale Fingerprint Images)
 
 
