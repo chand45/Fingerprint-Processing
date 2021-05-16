@@ -1,7 +1,3 @@
-#======================================================================
-# Author - Dr. Manish Kashyap
-#======================================================================
-
 # PURPOSE : Singularity detection in binary fingerprint images 
 
 import my_package.my_functions as mf # This is a user defined package
